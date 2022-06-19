@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/MathiasPeras/MathiasPeras/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image](peacock)
+![peacock](https://user-images.githubusercontent.com/99271709/174501874-a53b2f1c-862e-40aa-853d-00c69d97efe8.png)
 ### Não
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
