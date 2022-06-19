@@ -4,9 +4,6 @@
 
 Fimas é um estudante de BCC da puc
 
-![106](https://user-images.githubusercontent.com/99271709/174502265-c0547dd6-72d3-48a3-af6d-f155e0e0cec3.jpg)
-
-
 ## PROJETOS
 
 Experiência criativa
@@ -41,6 +38,7 @@ Jogo da memória brabo
 ## Resolução de Problemas com Lógica Matemática
  
  DETETIVE brabo
+  
 ![image](https://user-images.githubusercontent.com/99271709/174503802-70e841b2-e077-4bef-bb88-7a5c4b71368c.png)
  
   
