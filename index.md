@@ -6,19 +6,21 @@ Site pessoal do Grande Fimas
 
 
 NELORESSSSS <3 <3 <3
+
 ![hqdefault](https://user-images.githubusercontent.com/99271709/174502450-f1ac9fd4-f477-47d5-a22b-fd383a1aa281.jpg)
 
 
-BRAHMAN::::
+BRAHMAN:
+ 
 ![CABR-Puma-2532-da-Casa-Branca-Agropastoril-640x427-1](https://user-images.githubusercontent.com/99271709/174502531-484f2a86-427e-4ec8-a032-e73543b62164.jpg)
 
 
-
+ 
 ![images](https://user-images.githubusercontent.com/99271709/174502622-eb6c052a-bf31-4732-a669-39353331dc7a.jpeg)
-
+ 
 
 ![R (1)](https://user-images.githubusercontent.com/99271709/174502656-1b418dfa-e189-4a8a-b85d-446521eee33e.gif)
-
+ 
 ### CONSIDERAÇÔES
 ![154-1544549_pokemon-pokmon-vaporeon-eevee-eeveeloutions-vaporeon-eevee-hd](https://user-images.githubusercontent.com/99271709/174502339-72e59f89-655e-4197-8da3-e4facf094490.png)
 
