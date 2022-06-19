@@ -4,7 +4,7 @@
 
 Fimas é um estudante de BCC da puc
 
-## PROJETOS
+# PROJETOS
 
 ### Experiência criativa
 
