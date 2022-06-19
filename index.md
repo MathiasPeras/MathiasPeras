@@ -1,38 +1,58 @@
-## NELORE FC
+## Matheus Gabriel
 
-Site pessoal do Grande Fimas
+![WhatsApp Image 2022-05-02 at 19 38 17](https://user-images.githubusercontent.com/99271709/174503263-aa27cf55-1f1d-483e-ac7f-eded1a9797e7.jpeg)
+
+Fimas é um estudante de BCC da puc
 
 ![106](https://user-images.githubusercontent.com/99271709/174502265-c0547dd6-72d3-48a3-af6d-f155e0e0cec3.jpg)
 
 
-NELORESSSSS <3 <3 <3
+## PROJETOS
 
-![hqdefault](https://user-images.githubusercontent.com/99271709/174502450-f1ac9fd4-f477-47d5-a22b-fd383a1aa281.jpg)
+Experiência criativa
 
-
-BRAHMAN:
+O jogo brabo
  
-![CABR-Puma-2532-da-Casa-Branca-Agropastoril-640x427-1](https://user-images.githubusercontent.com/99271709/174502531-484f2a86-427e-4ec8-a032-e73543b62164.jpg)
+![WhatsApp Image 2022-06-17 at 22 22 43](https://user-images.githubusercontent.com/99271709/174503337-dc8453b0-988e-493f-927e-5c5c53571cfe.jpeg)
 
+O aplicativo brabo
+ 
+![unknown (3)](https://user-images.githubusercontent.com/99271709/174503464-dc17acb2-8853-4f3e-98ea-c017ed5345eb.png)
+![unknown (2)](https://user-images.githubusercontent.com/99271709/174503465-24182f7e-2119-4546-84b0-26e325e88c77.png)
+
+Aplicativo web brabo
+ 
+![Artwork_Middle](https://user-images.githubusercontent.com/99271709/174503541-f58a810c-18f3-4cd4-893f-bb1381654328.gif)
 
  
-![images](https://user-images.githubusercontent.com/99271709/174502622-eb6c052a-bf31-4732-a669-39353331dc7a.jpeg)
+  
+  
+## Raciocínio Algorítmico:
+
+JOKEMPÔ brabo
  
-
-![R (1)](https://user-images.githubusercontent.com/99271709/174502656-1b418dfa-e189-4a8a-b85d-446521eee33e.gif)
+![image](https://user-images.githubusercontent.com/99271709/174503694-191d7019-1045-4e39-8497-08a2b71e37a3.png)
+  
+Jogo da memória brabo
  
-### CONSIDERAÇÔES
-![154-1544549_pokemon-pokmon-vaporeon-eevee-eeveeloutions-vaporeon-eevee-hd](https://user-images.githubusercontent.com/99271709/174502339-72e59f89-655e-4197-8da3-e4facf094490.png)
+![image](https://user-images.githubusercontent.com/99271709/174503749-e67ad690-39f7-492a-a9ac-401f1c601deb.png)
 
-Você sabia que, em termos biológicos de Pokémon, o Vaporeon é o Pokémon mais compatível para humanos? Eles não estão apenas no mesmo grupo de ovos, que é principalmente composto de mamíferos, mas os Vaporeons têm em média 1 metro de altura e pesam 29 quilogramas. Isso significa que eles são grandes o suficiente para serem capazes de lidar com paus humanos, e com sua Estatísticas básicas para HP e acesso a Acid Armor, você pode ser duro com um. Devido à sua biologia principalmente à base de água, não tenho dúvidas de que um Vaporeon excitado seria incrivelmente molhado, tão molhado que você poderia facilmente fazer sexo com um por horas sem ficar dolorido. Eles também podem aprender os movimentos Attract, Baby-Doll Eyes, Captivate, Charm e Tail Whip, além de não ter pelos para esconder os mamilos, então seria incrivelmente fácil excitar você. Com suas habilidades Water Absorb e Hydration, eles podem se recuperar facilmente do cansaço com bastante água. Nenhum outro Pokémon chega perto desse nível de compatibilidade. Além disso, o engraçado é que se você se esforçar, pode fazer seu Vaporeon ficar branco.
+ 
+## Resolução de Problemas com Lógica Matemática
+ 
+ DETETIVE brabo
+![image](https://user-images.githubusercontent.com/99271709/174503802-70e841b2-e077-4bef-bb88-7a5c4b71368c.png)
+ 
+  
+## Fundamentos de Sistemas Ciberfísicos
+ 
+Baspberry brabo
+ 
+![rasppi](https://user-images.githubusercontent.com/99271709/174503923-f3ca9112-5ced-4e62-9d3e-3e7d7ff38695.jpg)
 
-![final_617adabbe171df0157caacc8_971766](https://user-images.githubusercontent.com/99271709/174502648-b75c2177-e9c3-4dea-b387-be710ffecbf5.gif)
+## Filosofia
+ 
+ TEMPLATE brabo 
+  
+![image](https://user-images.githubusercontent.com/99271709/174503990-22743c32-50c8-4e56-ab26-28f41f693b44.png)
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MathiasPeras/MathiasPeras/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
