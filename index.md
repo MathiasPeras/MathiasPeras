@@ -19,7 +19,8 @@ O aplicativo brabo
 
 Aplicativo web brabo
  
-![Artwork_Middle](https://user-images.githubusercontent.com/99271709/174503541-f58a810c-18f3-4cd4-893f-bb1381654328.gif)
+![2022-06-19-204335_1092x322_scrot](https://user-images.githubusercontent.com/99271709/174504767-bd51ac3a-0451-437a-ab15-8fcfebca246a.png)
+
 
  
   
@@ -46,7 +47,7 @@ Jogo da memória brabo
  
 Baspberry brabo
  
-![rasppi](https://user-images.githubusercontent.com/99271709/174503923-f3ca9112-5ced-4e62-9d3e-3e7d7ff38695.jpg)
+![image](https://user-images.githubusercontent.com/99271709/174504983-7daefce2-1422-4208-82c5-f8814112302a.png)
 
 ### Filosofia
  
